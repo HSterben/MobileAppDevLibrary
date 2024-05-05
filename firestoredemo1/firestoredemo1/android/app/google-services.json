@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788806496555",
+    "project_id": "adifsdemoapril",
+    "storage_bucket": "adifsdemoapril.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788806496555:android:0ccd9350069579e140d56e",
+        "android_client_info": {
+          "package_name": "com.example.firestoredemo1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX1VXKzfs-YQr5eyNkVnY2JWGSucWgSaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
