@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008390374507",
+    "project_id": "appdev-ccb21",
+    "storage_bucket": "appdev-ccb21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008390374507:android:1535d29c7d9d3bd8b99d2e",
+        "android_client_info": {
+          "package_name": "com.example.exam2t1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAae0dG3mOe6LgnpU4z9PRADuKpVmiTxuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
